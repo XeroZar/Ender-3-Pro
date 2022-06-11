@@ -1,6 +1,8 @@
 # Ender-3-Pro
 Running Marlin 2.1, with CR Touch, 3PIN Filament Sensor Running on SKR Mini E3 V3
 
+WARNING!!! SO USE AT OWN RISK!!! The offsets work fine for me. (X, Y, Z > -40, -10, -1) with Z Limit switch disabled and Z-Probe Enabled. If you decide to use this, keep watch when you are running it to avoid severe damage to your printer(s).
+
 Below are the links that I used to purchase my items. I am not being sponsored or endorsing anything, just giving anyone who likes to have a visual comparison like myself, I hate it when seeing the title saying one thing and showing a different variation of the product.
 
 3d Printer ( https://www.amazon.ca/Official-Creality-3D-Ender-Printer/dp/B07CJ5PFVP?ref_=ast_sto_dp )
